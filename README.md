@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhinageorge
 - 👀 I’m interested in management and organising.
-- 🌱 I’m currently learning programming with python
+- 🌱 I’m currently learning Frontend Web Development
 - 📫 You can reach me at akhinageorge21@gmail.com
 
 <!---
